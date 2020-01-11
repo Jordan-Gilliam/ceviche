@@ -6,18 +6,19 @@ dist: trusty
 addons:
   chrome: stable
 cache:
+  yarn: true
   directories:
-    - $HOME/.npm
+    - node_modules
 before_install:
-  - export CHROME_BIN=chromium-browser
-  - export DISPLAY=:99.0
-  - sh -e /etc/init.d/xvfb start
+  # - export CHROME_BIN=chromium-browser
+  # - export DISPLAY=:99.0
+  # - sh -e /etc/init.d/xvfb start
 install:
-  - npm install codecov -g
-  - npm ci
+  - yarn add codecov -g
+  - yarn ci
 script:
   # run build script specified in package.json
-  - npm run ci
+  - yarn ci
   # call script for deploying of produced artifacts
   # - bash ./.travis-deploy.sh
 after_success:
