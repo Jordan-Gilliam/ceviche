@@ -16,6 +16,9 @@
     },
     "sandbox-e2e": {
       "tags": []
+    },
+    "components": {
+      "tags": []
     }
   }
 }
