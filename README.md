@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Jordan-Gilliam/ceviche"><img src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/brandmark-design.png" alt=""></a>
+  <a href="https://github.com/Jordan-Gilliam/ceviche"><img width="700" src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/brandmark-design.png" alt=""></a>
 </h1>
 
 <h4 align="center">A modern design system</h4>
