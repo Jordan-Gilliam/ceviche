@@ -3,8 +3,7 @@
   <a href="https://github.com/Jordan-Gilliam/ceviche"><img src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/brandmark-design.png" alt=""></a>
 </h1>
 
-<h4 align="center">A modern design system. DX -> UX</h4>
-<h4 align="center">DX -> UX</h4>
+<h4 align="center">A modern design system</h4>
   <br>
 
   <p align="center">
@@ -17,7 +16,7 @@
   </p>
   <p align="center">
     <a href="https://forthebadge.com">
-    <img src="https://forthebadge.com/images/badges/oooo-kill-em.svg" alt="For the badge">
+    <img src="https://img.shields.io/badge/DX%20--%3E-UX-blue?style=for-the-badge" alt="For the badge">
   </p>
 
 <p align="center">
