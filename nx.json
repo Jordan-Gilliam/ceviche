@@ -19,6 +19,9 @@
     },
     "components": {
       "tags": []
+    },
+    "components-e2e": {
+      "tags": []
     }
   }
 }
