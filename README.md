@@ -6,7 +6,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" width="450"></p>
+<p align="center"><img src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/brandmark-design%20(1).png" width="550"></p>
 
 ## Contributing
 
