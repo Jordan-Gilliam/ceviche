@@ -7,14 +7,21 @@
 <h4 align="center">DX -> UX</h4>
   <br>
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Jordan-Gilliam/ceviche.svg)](https://greenkeeper.io/)
+  <p align="center">
+    <a href="https://greenkeeper.io/">
+      <img src="https://badges.greenkeeper.io/Jordan-Gilliam/ceviche.svg" alt="Green Keeper">
+      <a href="https://github.com/Jordan-Gilliam/ceviche/issues">
+      <img src="https://img.shields.io/github/issues/Naereen/StrapDown.js.svg" alt="Github Issues">
+      <a href="#contributors">
+      <img src="https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square" alt="Contributors">
+      <a href="https://forthebadge.com">
+    <img src="https://forthebadge.com/images/badges/oooo-kill-em.svg" alt="For the badge">
+  </p>
+  <p align="center">
+    <a href="https://forthebadge.com">
+    <img src="https://forthebadge.com/images/badges/oooo-kill-em.svg" alt="For the badge">
+  </p>
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-      
 <p align="center">
   <a href="#about">About</a> •
   <a href="#installation">Installation</a> •
@@ -28,18 +35,23 @@
 ---
 
 ## About
->TODO
+
+> TODO
 
 ## Installation
->TODO
+
+> TODO
 
 ## Updating
->TODO
+
+> TODO
 
 ## Features
->TODO
+
+> TODO
 
 ## Contributing
+
 Thanks for being you:)
 [contribution guidelines](./CONTRIBUTING.md) to get started.
 
@@ -60,9 +72,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## License
->TODO
+
+> TODO
