@@ -1,12 +1,31 @@
-<p align="center"><img src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/brandmark-design%20(1).png" width="550"></p>
+<h1 align="center">
+  <br>
+  <a href="https://github.com/Jordan-Gilliam/ceviche"><img src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/brandmark-design%20(1).png" alt=""></a>
+</h1>
 
+<h4 align="center">A modern design system. DX -> UX</h4>
+<h4 align="center">DX -> UX</h4>
+  <br>
 
-# Badge
 [![Greenkeeper badge](https://badges.greenkeeper.io/Jordan-Gilliam/ceviche.svg)](https://greenkeeper.io/)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+      
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#updating">Updating</a> •
+  <a href="#features">Features</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#contributors">Contributors</a> •
+  <a href="#license">License</a>
+</p>
+
+---
 
 ## Contributing
 Thanks for being you:)
