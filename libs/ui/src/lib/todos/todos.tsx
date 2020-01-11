@@ -9,7 +9,7 @@ const StyledTodos = styled.div`
   color: pink;
 `;
 
-const Todos = (props: TodosProps) => {
+export const Todos = (props: TodosProps) => {
   return (
     <StyledTodos>
       <h1>Welcome to todos component!</h1>
