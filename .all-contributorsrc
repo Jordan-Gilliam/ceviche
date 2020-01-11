@@ -1,9 +1,11 @@
 {
   "projectName": "ceviche",
-  "projectOwner": "nolansym",
+  "projectOwner": "Jordan-Gilliam",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "contributorsPerLine": 7,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
@@ -15,6 +17,18 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "skipCi": "true",
-  "contributors": []
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "Jordan-Gilliam",
+      "name": "Nolansym",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/25993686?v=4",
+      "profile": "https://github.com/Jordan-Gilliam",
+      "contributions": [
+        "code",
+        "test",
+        "doc"
+      ]
+    }
+  ]
 }
