@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Jordan-Gilliam/ceviche"><img src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/brandmark-design%20(1).png" alt=""></a>
+  <a href="https://github.com/Jordan-Gilliam/ceviche"><img src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/brandmark-design.png" alt=""></a>
 </h1>
 
 <h4 align="center">A modern design system. DX -> UX</h4>
@@ -11,7 +11,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
       
@@ -27,11 +27,23 @@
 
 ---
 
+## About
+>TODO
+
+## Installation
+>TODO
+
+## Updating
+>TODO
+
+## Features
+>TODO
+
 ## Contributing
 Thanks for being you:)
 [contribution guidelines](./CONTRIBUTING.md) to get started.
 
-### Contributors ✨
+## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -51,3 +63,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## License
+>TODO
