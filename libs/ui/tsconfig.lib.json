@@ -8,12 +8,7 @@
     "**/*.spec.ts",
     "**/*.spec.tsx",
     "**/*.stories.ts",
-    "**/*.stories.js"
+    "**/*.stories.tsx"
   ],
-  "include": [
-    "**/*.js",
-    "**/*.jsx",
-    "**/*.ts",
-    "**/*.tsx"
-  ]
+  "include": ["**/*.js", "**/*.jsx", "**/*.ts", "**/*.tsx"]
 }
