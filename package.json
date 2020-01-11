@@ -22,7 +22,8 @@
     "format:check": "nx format:check",
     "workspace-schematic": "nx workspace-schematic",
     "dep-graph": "nx dep-graph",
-    "help": "nx help"
+    "help": "nx help",
+    "doc": "all-contributors generate"
   },
   "private": true,
   "dependencies": {
@@ -59,6 +60,7 @@
     "@types/styled-components": "4.4.2",
     "@typescript-eslint/eslint-plugin": "2.15.0",
     "@typescript-eslint/parser": "2.15.0",
+    "all-contributors-cli": "^6.12.0",
     "babel-loader": "8.0.6",
     "cypress": "3.8.2",
     "dotenv": "8.2.0",
