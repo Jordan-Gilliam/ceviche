@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "build:ci": "nx build",
-    "ci": "nx format && nx lint && nx test --code-coverage && nx e2e -- --headless  && npm run build:ci",
+    "ci": "nx format && nx lint && nx test --code-coverage",
     "nx": "nx",
     "start": "nx serve",
     "build": "nx build",
