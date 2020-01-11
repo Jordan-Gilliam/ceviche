@@ -7,12 +7,8 @@
   <br>
 
   <p align="center">
-    <a href="https://greenkeeper.io/">
-      <img src="https://badges.greenkeeper.io/Jordan-Gilliam/ceviche.svg" alt="Green Keeper">
-      <a href="https://github.com/Jordan-Gilliam/ceviche/issues">
-      <img src="https://img.shields.io/github/issues/Naereen/StrapDown.js.svg" alt="Github Issues">
       <a href="#contributors">
-    <img src="https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square" alt="Contributors">
+    <img src="https://img.shields.io/badge/all_contributors-3-orange.svg?style=for-the-badge" alt="Contributors">
   </p>
   <p align="center">
     <a href="https://forthebadge.com">
