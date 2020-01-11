@@ -17,10 +17,10 @@
     "sandbox-e2e": {
       "tags": []
     },
-    "components": {
+    "ui": {
       "tags": []
     },
-    "components-e2e": {
+    "ui-e2e": {
       "tags": []
     }
   }
