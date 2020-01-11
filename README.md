@@ -1,15 +1,14 @@
-# Ceviche
+<p align="center"><img src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/brandmark-design%20(1).png" width="550"></p>
 
+
+# Badge
 [![Greenkeeper badge](https://badges.greenkeeper.io/Jordan-Gilliam/ceviche.svg)](https://greenkeeper.io/)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<p align="center"><img src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/brandmark-design%20(1).png" width="550"></p>
-
 ## Contributing
-
 Thanks for being you:)
 [contribution guidelines](./CONTRIBUTING.md) to get started.
 
