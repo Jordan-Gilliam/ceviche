@@ -37,11 +37,11 @@
 
 ## Installation
 
-> TODO
+ceviche is available as an [npm package](https://www.npmjs.com/package/ceviche-hooks).
 
-## Updating
+`npm i ceviche-hooks`
 
-> TODO
+`npx yarn add ceviche-hooks`
 
 ## Features
 
@@ -76,4 +76,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## License
 
-> TODO
+This project is licensed under the terms of the [MIT license](./LICENSE).
