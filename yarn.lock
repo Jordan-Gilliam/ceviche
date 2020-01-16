@@ -93,6 +93,11 @@
   resolved "https://registry.yarnpkg.com/@angular-eslint/builder/-/builder-0.0.1-alpha.17.tgz#e67cc054c0aa4a0b56c84c82f8196d0ebac72d9b"
   integrity sha512-ULmEjyhoozljKbHvIUaVKjb0efAyh8R/vcoo2tCErrTBIEsFcpO0VtiSsVoCPWKhodHKteAimWSfpcyVYcWuOw==
 
+"@angular-eslint/builder@0.0.1-alpha.18":
+  version "0.0.1-alpha.18"
+  resolved "https://registry.yarnpkg.com/@angular-eslint/builder/-/builder-0.0.1-alpha.18.tgz#3a3ac2d93782ce24a99457df93b4755912cca8a9"
+  integrity sha512-xDipFDGxtY0Hjy2ua2BwsuxFKdC9eZBdXr+HXXXvbLCGn9DTHT5RbPinZJ4bMPJz4QE6yIrg6EhoB4CWHLZvhw==
+
 "@angular/forms@*":
   version "8.2.14"
   resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-8.2.14.tgz#7d357c346a3884881beb044c50ec4a09d3d7ee8e"
@@ -1559,6 +1564,19 @@
     tsconfig-paths-webpack-plugin "3.2.0"
     webpack-node-externals "1.7.2"
 
+"@nrwl/cypress@8.11.1":
+  version "8.11.1"
+  resolved "https://registry.yarnpkg.com/@nrwl/cypress/-/cypress-8.11.1.tgz#c9583fb35bbf718ff405a1fa3b2acbbefbd0ff4a"
+  integrity sha512-9zBVtTMltHfRYI3VWeEpZgHNTV587KZAVZSJIqX3R5PYbnteMIPbLBpJS44PIfp7wpKh+1ng1NSHWooGRk8hdw==
+  dependencies:
+    "@angular-devkit/architect" "0.803.14"
+    "@angular-devkit/core" "8.3.14"
+    "@cypress/webpack-preprocessor" "~4.1.0"
+    tree-kill "1.2.1"
+    ts-loader "5.3.1"
+    tsconfig-paths-webpack-plugin "3.2.0"
+    webpack-node-externals "1.7.2"
+
 "@nrwl/eslint-plugin-nx@8.11.0":
   version "8.11.0"
   resolved "https://registry.yarnpkg.com/@nrwl/eslint-plugin-nx/-/eslint-plugin-nx-8.11.0.tgz#7142888d6c47d192cf19c37bc4f2dd6ecdc75b0c"
@@ -1575,6 +1593,15 @@
     "@angular-devkit/core" "8.3.14"
     "@angular-devkit/schematics" "8.3.14"
 
+"@nrwl/jest@8.11.1":
+  version "8.11.1"
+  resolved "https://registry.yarnpkg.com/@nrwl/jest/-/jest-8.11.1.tgz#79cb1de914eacd0ecfeaee7f7d9faa1a793913b8"
+  integrity sha512-ic5QkvDx+1Z8dd5PquyfLrbgfnjjSksc2/HsAkEnW+7Puj9VX4DRj1RVSrwyaCyfy+wBvgZ5QcQc7rmC6m2E9A==
+  dependencies:
+    "@angular-devkit/architect" "0.803.14"
+    "@angular-devkit/core" "8.3.14"
+    "@angular-devkit/schematics" "8.3.14"
+
 "@nrwl/linter@8.11.0":
   version "8.11.0"
   resolved "https://registry.yarnpkg.com/@nrwl/linter/-/linter-8.11.0.tgz#9113d574dabfedda4059b8130e1299a95b4169c6"
@@ -1583,15 +1610,40 @@
     "@angular-devkit/architect" "0.803.14"
     "@angular-eslint/builder" "0.0.1-alpha.17"
 
-"@nrwl/next@8.11.0":
-  version "8.11.0"
-  resolved "https://registry.yarnpkg.com/@nrwl/next/-/next-8.11.0.tgz#a50a5d09c448299f89ab49d400e1a20eec00571d"
-  integrity sha512-R1qjV79nrkvdhqG2RCWr/5vWQ03HztJN05Th3lQrqsUXcMhsEzGxY+cepfNh9zZs/ZNRhZgWBVVHgRhj9s1Wpg==
+"@nrwl/linter@8.11.1":
+  version "8.11.1"
+  resolved "https://registry.yarnpkg.com/@nrwl/linter/-/linter-8.11.1.tgz#3d0c1ef1afb1c569a080eb42e2818053916c4e29"
+  integrity sha512-NktI1kVeINoL0OV/jYYn2u10oQRnOsThecLn1dvDBFEseXpEH7YtV+pr+XaSxl5IGwZca9/gfuXA9g64WkuOcw==
+  dependencies:
+    "@angular-devkit/architect" "0.803.14"
+    "@angular-eslint/builder" "0.0.1-alpha.18"
+
+"@nrwl/next@8.11.1":
+  version "8.11.1"
+  resolved "https://registry.yarnpkg.com/@nrwl/next/-/next-8.11.1.tgz#cfba2a510f5281fcf3d6864f9ff016b9a7a15d50"
+  integrity sha512-+iXowqW2tedbD5QNgd8ekIJ+JmH6Zxe3G6jjogTaZlPzdEN9d2FbaOvxED1imRd0ezF5agyW8E/1Rjp98AdDqg==
   dependencies:
     "@angular-devkit/schematics" "8.3.14"
-    "@nrwl/react" "8.11.0"
+    "@nrwl/react" "8.11.1"
 
-"@nrwl/react@8.11.0", "@nrwl/react@^8.11.0":
+"@nrwl/react@8.11.1":
+  version "8.11.1"
+  resolved "https://registry.yarnpkg.com/@nrwl/react/-/react-8.11.1.tgz#1e382191aa9c932fff520a2a21aebfbab9d535f3"
+  integrity sha512-PGb16QDqYQFVNp65ArDqIy34PryE2KubKqW+bwwkPrao+uyI3dUWGpKN0Vteog+2MkfCiOVSleLDUTfCUHVuOA==
+  dependencies:
+    "@angular-devkit/schematics" "8.3.14"
+    "@nrwl/cypress" "8.11.1"
+    "@nrwl/jest" "8.11.1"
+    "@nrwl/web" "8.11.1"
+    "@svgr/webpack" "^4.3.3"
+    confusing-browser-globals "^1.0.8"
+    eslint-plugin-import "^2.19.1"
+    eslint-plugin-jsx-a11y "^6.2.3"
+    eslint-plugin-react "^7.17.0"
+    eslint-plugin-react-hooks "^2.3.0"
+    url-loader "^2.2.0"
+
+"@nrwl/react@^8.11.0":
   version "8.11.0"
   resolved "https://registry.yarnpkg.com/@nrwl/react/-/react-8.11.0.tgz#0b778578acbe790df498cbcc31811c07ff0ff232"
   integrity sha512-GYZcwg+Koy8ONH7i29wYjm1+IFMJO7AMbjqCx6U/UdzTq9d38ILRKnvuXgcVMuHaJg2TjuMSXX6yUCrhXtjuZg==
@@ -1655,6 +1707,96 @@
     "@nrwl/cypress" "8.11.0"
     "@nrwl/jest" "8.11.0"
     "@nrwl/linter" "8.11.0"
+    ajv "6.10.2"
+    autoprefixer "9.6.1"
+    babel-loader "8.0.6"
+    babel-plugin-const-enum "0.0.5"
+    babel-plugin-macros "2.6.1"
+    babel-plugin-transform-async-to-promises "0.8.14"
+    browserslist "4.6.6"
+    cacache "12.0.2"
+    caniuse-lite "1.0.30000989"
+    circular-dependency-plugin "5.2.0"
+    clean-css "4.2.1"
+    copy-webpack-plugin "5.1.1"
+    core-js "^3.2.1"
+    file-loader "4.2.0"
+    find-cache-dir "3.0.0"
+    fork-ts-checker-webpack-plugin "^3.1.1"
+    glob "7.1.4"
+    identity-obj-proxy "3.0.0"
+    istanbul-instrumenter-loader "3.0.1"
+    jest-worker "24.9.0"
+    karma-source-map-support "1.4.0"
+    less "3.9.0"
+    less-loader "5.0.0"
+    license-webpack-plugin "2.1.2"
+    loader-utils "1.2.3"
+    mini-css-extract-plugin "0.8.0"
+    minimatch "3.0.4"
+    open "6.4.0"
+    parse5 "4.0.0"
+    postcss "7.0.17"
+    postcss-import "12.0.1"
+    postcss-loader "3.0.0"
+    raw-loader "3.1.0"
+    regenerator-runtime "0.13.3"
+    rollup "1.20.3"
+    rollup-plugin-babel "4.3.3"
+    rollup-plugin-commonjs "10.1.0"
+    rollup-plugin-filesize "6.2.0"
+    rollup-plugin-local-resolve "1.0.7"
+    rollup-plugin-node-resolve "5.2.0"
+    rollup-plugin-peer-deps-external "2.2.0"
+    rollup-plugin-postcss "2.0.3"
+    rollup-plugin-typescript2 "0.24.3"
+    rxjs "6.4.0"
+    sass "1.22.9"
+    sass-loader "7.2.0"
+    semver "6.3.0"
+    source-map "0.7.3"
+    source-map-loader "0.2.4"
+    source-map-support "0.5.13"
+    speed-measure-webpack-plugin "1.3.1"
+    style-loader "1.0.0"
+    stylus "0.54.5"
+    stylus-loader "3.0.2"
+    terser "4.3.8"
+    terser-webpack-plugin "2.3.1"
+    tree-kill "1.2.1"
+    ts-loader "5.4.5"
+    tsconfig-paths-webpack-plugin "3.2.0"
+    webpack "4.41.2"
+    webpack-dev-middleware "3.7.0"
+    webpack-dev-server "3.9.0"
+    webpack-merge "4.2.1"
+    webpack-node-externals "1.7.2"
+    webpack-sources "1.4.3"
+    webpack-subresource-integrity "1.1.0-rc.6"
+    worker-plugin "3.2.0"
+
+"@nrwl/web@8.11.1":
+  version "8.11.1"
+  resolved "https://registry.yarnpkg.com/@nrwl/web/-/web-8.11.1.tgz#91f978ea5c203fcbde891c6204361eec832cc540"
+  integrity sha512-sx6C4oQPc70oWLd8Zd5zx8/Hey51iiaZv26LVMCqKxCaOv7kf+sA5gHTpZxv+Dr9DN8zcOznVTVCov3yg2hK5Q==
+  dependencies:
+    "@angular-devkit/architect" "0.803.14"
+    "@angular-devkit/build-ng-packagr" "0.803.14"
+    "@angular-devkit/build-optimizer" "0.803.14"
+    "@angular-devkit/build-webpack" "0.803.14"
+    "@angular-devkit/core" "8.3.14"
+    "@angular-devkit/schematics" "8.3.14"
+    "@angular/service-worker" "8.2.12"
+    "@babel/core" "7.5.5"
+    "@babel/plugin-proposal-class-properties" "7.5.5"
+    "@babel/plugin-proposal-decorators" "7.4.4"
+    "@babel/plugin-transform-regenerator" "7.4.5"
+    "@babel/preset-env" "7.5.5"
+    "@babel/preset-typescript" "7.3.3"
+    "@ngtools/webpack" "8.3.14"
+    "@nrwl/cypress" "8.11.1"
+    "@nrwl/jest" "8.11.1"
+    "@nrwl/linter" "8.11.1"
     ajv "6.10.2"
     autoprefixer "9.6.1"
     babel-loader "8.0.6"
