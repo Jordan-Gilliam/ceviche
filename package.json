@@ -53,7 +53,7 @@
     "@nrwl/workspace": "8.11.0",
     "@storybook/addon-knobs": "5.3.4",
     "@storybook/angular": "5.3.4",
-    "@storybook/react": "5.3.0",
+    "@storybook/react": "5.3.4",
     "@testing-library/react": "9.4.0",
     "@types/jest": "24.0.25",
     "@types/node": "~13.1.6",
