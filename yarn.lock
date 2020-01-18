@@ -41,6 +41,14 @@
     "@angular-devkit/core" "8.3.14"
     rxjs "6.4.0"
 
+"@angular-devkit/architect@0.803.23":
+  version "0.803.23"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/architect/-/architect-0.803.23.tgz#a73ae2edede539f37fbfb09e4085ac24ec3781c9"
+  integrity sha512-BRDbnmdULrle2l7WFZHEW/OAwS8RRg08+jiNG3gEP0BxDN6QMNMKmWhxmX67pgq3e/xMvu2DH0z71mAPNtJDAw==
+  dependencies:
+    "@angular-devkit/core" "8.3.23"
+    rxjs "6.4.0"
+
 "@angular-devkit/build-ng-packagr@0.803.14":
   version "0.803.14"
   resolved "https://registry.yarnpkg.com/@angular-devkit/build-ng-packagr/-/build-ng-packagr-0.803.14.tgz#491ad964cf7022095a92c9f127b04ce93ac89bef"
@@ -73,6 +81,17 @@
   version "8.3.14"
   resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-8.3.14.tgz#b42716a0de44c8f2785a18ae5562ec2f76543c9b"
   integrity sha512-+IYLbtCxwIpaieRj0wurEXBzZ/fDSdWbyrCfajzDerzsxqghNcafAXSazHXWwISqtbr/pAOuqUNR+mEk2XBz3Q==
+  dependencies:
+    ajv "6.10.2"
+    fast-json-stable-stringify "2.0.0"
+    magic-string "0.25.3"
+    rxjs "6.4.0"
+    source-map "0.7.3"
+
+"@angular-devkit/core@8.3.23":
+  version "8.3.23"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-8.3.23.tgz#612bf8a76b1ccde40cd6a5e85a02dc083bb666c6"
+  integrity sha512-y++LN6R/fu+obPUKEMDSKZ5FzeWN5rV0Z8vrdC+uF02VJLv/5QI/dUx3ROKFzJO3m2LU6EAuo5b/TLAPq4ving==
   dependencies:
     ajv "6.10.2"
     fast-json-stable-stringify "2.0.0"
@@ -1555,6 +1574,19 @@
     "@angular-devkit/core" "8.3.14"
     "@cypress/webpack-preprocessor" "~4.1.0"
     tree-kill "1.2.1"
+    ts-loader "5.3.1"
+    tsconfig-paths-webpack-plugin "3.2.0"
+    webpack-node-externals "1.7.2"
+
+"@nrwl/cypress@8.11.2":
+  version "8.11.2"
+  resolved "https://registry.yarnpkg.com/@nrwl/cypress/-/cypress-8.11.2.tgz#ed380d0a35c20f388bad741e785e2afb4c0d9d76"
+  integrity sha512-R7EWD/qNF8EElhEDYsaxrbOelxcKxPypb6/T/pP18AhTeXAEd5n8GZyHCjMFbZDf/f3dBptdpAq/H2k6fWwD5A==
+  dependencies:
+    "@angular-devkit/architect" "0.803.23"
+    "@angular-devkit/core" "8.3.23"
+    "@cypress/webpack-preprocessor" "~4.1.0"
+    tree-kill "1.2.2"
     ts-loader "5.3.1"
     tsconfig-paths-webpack-plugin "3.2.0"
     webpack-node-externals "1.7.2"
@@ -13928,6 +13960,11 @@ tree-kill@1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.1.tgz#5398f374e2f292b9dcc7b2e71e30a5c3bb6c743a"
   integrity sha512-4hjqbObwlh2dLyW4tcz0Ymw0ggoaVDMveUB9w8kFSQScdRLo0gxO9J7WFcUBo+W3C1TLdFIEwNOWebgZZ0RH9Q==
+
+tree-kill@1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
+  integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
 
 trim-right@^1.0.1:
   version "1.0.1"
