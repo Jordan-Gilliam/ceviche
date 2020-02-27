@@ -59,7 +59,7 @@
     "@types/node": "~13.1.6",
     "@types/react": "16.9.17",
     "@types/react-dom": "16.9.4",
-    "@types/styled-components": "4.4.2",
+    "@types/styled-components": "5.0.1",
     "@typescript-eslint/eslint-plugin": "2.18.0",
     "@typescript-eslint/parser": "2.15.0",
     "all-contributors-cli": "^6.12.0",
