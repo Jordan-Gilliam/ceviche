@@ -43,7 +43,7 @@
     "@angular/forms": "*",
     "@babel/core": "7.8.0",
     "@babel/preset-typescript": "^7.7.7",
-    "@nrwl/cypress": "8.11.1",
+    "@nrwl/cypress": "9.2.1",
     "@nrwl/eslint-plugin-nx": "8.11.0",
     "@nrwl/jest": "8.11.0",
     "@nrwl/next": "8.11.0",
