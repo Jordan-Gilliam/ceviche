@@ -49,7 +49,7 @@
     "@nrwl/next": "8.11.0",
     "@nrwl/react": "^8.11.0",
     "@nrwl/storybook": "^8.11.0",
-    "@nrwl/web": "8.11.0",
+    "@nrwl/web": "9.2.2",
     "@nrwl/workspace": "8.11.0",
     "@storybook/addon-knobs": "5.3.1",
     "@storybook/angular": "5.3.1",
