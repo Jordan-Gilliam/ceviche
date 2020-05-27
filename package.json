@@ -42,7 +42,7 @@
   "devDependencies": {
     "@angular/forms": "*",
     "@babel/core": "7.10.1",
-    "@babel/preset-typescript": "^7.7.7",
+    "@babel/preset-typescript": "^7.10.1",
     "@nrwl/cypress": "8.11.1",
     "@nrwl/eslint-plugin-nx": "8.11.0",
     "@nrwl/jest": "8.11.0",
